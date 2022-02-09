@@ -1,5 +1,7 @@
 ### Hola Compañeros 👋
 
+- 🔭 Actualmente soy estudiante de Ingenieria en Sitemas Computacionales
+
 <!--
 **ErnestoVV/ErnestoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
