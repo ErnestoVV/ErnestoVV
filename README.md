@@ -1,4 +1,4 @@
-![](Cooltextneto)
+![](Cooltextneto.png)
 
 ### Hola Compañeros 👋
 
