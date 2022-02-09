@@ -8,6 +8,8 @@
 - 📫 ernesto.vazquez18@tectijuana.edu.mx
 - 😄 Apodo: Neto
 
+Horario de Clases
+
 | Horario | Lunes             | Martes            | Miercoles         | Jueves            | Viernes           |
 |---------|-------------------|-------------------|-------------------|-------------------|-------------------|
 | 1 pm    | Ing. de Software  | Ing. de Software  | Ing. de Software  | Ing. de Software  | Ing. de Software  |
