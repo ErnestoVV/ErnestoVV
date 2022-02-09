@@ -9,7 +9,7 @@
 - 😄 Apodo: Neto
 
 
-###Horario de Clases
+Horario de Clases
 
 | Horario | Lunes             | Martes            | Miercoles         | Jueves            | Viernes           |
 |---------|-------------------|-------------------|-------------------|-------------------|-------------------|
