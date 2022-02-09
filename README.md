@@ -8,6 +8,15 @@
 - 📫 ernesto.vazquez18@tectijuana.edu.mx
 - 😄 Apodo: Neto
 
+| Horario | Lunes             | Martes            | Miercoles         | Jueves            | Viernes           |
+|---------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| 1 pm    | Ing. de Software  | Ing. de Software  | Ing. de Software  | Ing. de Software  | Ing. de Software  |
+| 2 pm    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    |                   |
+| 3 pm    | Leng. y Automatas | Leng. y Automatas | Leng. Y Automatas | Leng. y Automatas | Leng. y Automatas |
+| 4 pm    | Graficacion       | Graficacion       | Graficacion       | Graficacion       |                   |
+| 5 pm    | Redes de Comp.    | Redes de Comp.    | Redes de Comp.    | Redes de Comp.    | Redes de Comp.    |
+| 6 pm    | Adm. Base Datos   | Adm. Base Datos   | Adm. Base Datos   | Adm. Base Datos   | Adm. Base Datos   |
+
 <!--
 **ErnestoVV/ErnestoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
