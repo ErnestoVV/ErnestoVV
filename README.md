@@ -1,10 +1,10 @@
 ### Hola Compañeros 👋
 
 - 🔭 Actualmente soy estudiante de Ingenieria en Sitemas Computacionales
-- 🌱 Me gusta las matematicas
+- 🌱 Me gusta las Matematicas
 - 👯 Me gusta editar Canciones y Videos
-- 🤔 Necesito aprender ingles pronto XD
-- 💬 Pasatiempos Series y salir con amigos
+- 🤔 Necesito aprender Ingles pronto XD
+- 💬 Pasatiempos Series y Salir con amigos
 - 📫 ernesto.vazquez18@tectijuana.edu.mx
 - 😄 Apodo: Neto
 
