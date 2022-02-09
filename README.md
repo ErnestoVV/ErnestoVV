@@ -1,6 +1,12 @@
 ### Hola Compañeros 👋
 
 - 🔭 Actualmente soy estudiante de Ingenieria en Sitemas Computacionales
+- 🌱 Me gusta las matematicas
+- 👯 Me gusta editar Canciones y Videos
+- 🤔 Necesito aprender ingles pronto XD
+- 💬 Pasatiempos Series y salir con amigos
+- 📫 ernesto.vazquez18@tectijuana.edu.mx
+- 😄 Apodo: Neto
 
 <!--
 **ErnestoVV/ErnestoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
