@@ -15,12 +15,12 @@ Horario de Clases
 
 | Horario | Lunes             | Martes            | Miercoles         | Jueves            | Viernes           |
 |---------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| 1 pm    | Ing. de Software  | Ing. de Software  | Ing. de Software  | Ing. de Software  | Ing. de Software  |
-| 2 pm    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    | Leng. Interfaz    |                   |
-| 3 pm    | Leng. y Automatas | Leng. y Automatas | Leng. Y Automatas | Leng. y Automatas | Leng. y Automatas |
-| 4 pm    | Graficacion       | Graficacion       | Graficacion       | Graficacion       |                   |
-| 5 pm    | Redes de Comp.    | Redes de Comp.    | Redes de Comp.    | Redes de Comp.    | Redes de Comp.    |
-| 6 pm    | Adm. Base Datos   | Adm. Base Datos   | Adm. Base Datos   | Adm. Base Datos   | Adm. Base Datos   |
+| 2 pm    | Programacion WEB  | Programacion WEB  | Programacion WEB  | Programacion WEB  | Programacion WEB  |
+| 3 pm    | Programacion Log. | Programacion Log. | Programacion Log. | Programacion Log. | Gestion Proyectos |
+| 4 pm    | Gestion Proyectos | Gestion Proyectos | Gestion Proyectos | Gestion Proyectos | Gestion Proyectos |
+| 5 pm    | Administracion R. | Administracion R. | Administracion R. | Administracion R. |                   |
+| 6 pm    | Lenguajes Auto. 2 | Lenguajes Auto. 2 | Lenguajes Auto. 2 | Lenguajes Auto. 2 | Lenguajes Auto. 2 |
+| 7 pm    | Formacion Profes. | Formacion Profes. | Formacion Profes. | Formacion Profes. | Formacion Profes. |
 
 <!--
 **ErnestoVV/ErnestoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
